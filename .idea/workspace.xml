@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fd0ffdf-9218-4325-b94a-27b7277f1fb2" name="Default Changelist" comment="demoe=test">
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/atomics/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/aysn/callback/task/CompletableFutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/aysn/callback/task/FutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/exceptions/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/exceptions/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/foreach/demo/IteratorConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/foreach/demo/MapForEachDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/guava/collection/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/instanceofDemo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/instanceofDemo/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/instanceofDemo/DemoTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/instanceofDemo/Pers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/instanceofDemo/PubPers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/io/basic/io/FilesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/lambda/news/pakgs/IterateOverLambdaExpressionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/lambda/news/pakgs/LambdaExpressionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/lambda/news/pakgs/LambdaExpressionMultiExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/lambda/news/pakgs/LambdaExpressionSingleExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/lambda/news/pakgs/LambdaExpressionmMethodRenfeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/maths/BigDecimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/object/utils/NullVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/object/utils/ObjectUtilsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/optional/OptionalTestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/properties/demo/PropertiesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/formal/AnnocationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/formal/ClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/formal/ConstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/formal/CreateClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/formal/FieldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/formal/MethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/formal/ParameterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/formal/arrays/demo/FeflectArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/new2021/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/new2021/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/new2021/Eating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/new2021/Goat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/new2021/Locomotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/new2021/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/new2021/RefelectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/stream/StreamDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/stream/StreamPP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/stream/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/strings/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/strings/SpringStringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java8-in-action.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/JUC/locked/Demo12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/JUC/locked/Demo12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/JUC/locked/Demo18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/JUC/locked/Demo18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/JUC/locked/Demo19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/JUC/locked/Demo19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/asyn/thread/FutureDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/aysn/callback/task/CallbackDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/collections/CollectionIsEmptyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/collections/CollectionIsEmptyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/collections/MapsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/collections/MapsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/function/FunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/function/FunctionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/guava/collection/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/guava/collection/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/guava/collection/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/guava/collection/MapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/io/basic/io/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/io/basic/io/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/GetClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/reflect/GetClassDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/stream/StreamDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/stream/StreamDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/stream/StreamDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/stream/StreamDemo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/stream/StreamDemo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/stream/StreamDemo03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiao/java8/strings/StringsDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiao/java8/strings/StringsDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/dateapi/NewDateApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/dateapi/NewDateApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/AppleFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/AppleFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/Lambda01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/Lambda01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/Lambda02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/Lambda02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/TransForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/lambda/TransForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/optional/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/optional/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/optional/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/optional/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/optional/Girl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/optional/Girl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/optional/OptionalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/optional/OptionalDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/stream/Dish$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/stream/Dish$Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xiao/java8/stream/Dish.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xiao/java8/stream/Dish.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://E:/Users/.m2/repository/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10-sources.jar!/org/apache/commons/lang3/ObjectUtils.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://E:/Users/.m2/repository/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE-sources.jar!/org/springframework/util/ObjectUtils.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Users\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../java/soft/maven/apache-maven-3.5.0-bin/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="E:\Users\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1QPhPd3Is2DtEpfCU9bpqVbbcg8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/java/com/xiao/java8/fanxing/AbsDemo.java" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xiao.java8.instanceofDemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaworkspace\java8-in-action\src\main\java\com\xiao\java8\reflect" />
+      <recent name="D:\javaworkspace\java8-in-action\src\main\java\com\xiao\java8\stream" />
+      <recent name="D:\javaworkspace\java8-in-action\src\main\java\com\xiao\java8\JUC" />
+      <recent name="D:\javaworkspace\java8-in-action\src\main\java\com\xiao\java8\lambda" />
+      <recent name="D:\javaworkspace\java8-in-action\src\main\java\com\xiao\java8\dateapi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaworkspace\java8-in-action\src\main\java\com\xiao\java8\function" />
+      <recent name="D:\javaworkspace\java8-in-action\src\main\java\com\xiao\java8" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiao.java8.instanceofDemo" />
+      <recent name="com.xiao.java8.JUC.locked" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FunctionExample">
+    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiao.java8.function.FunctionExample" />
+      <module name="java8-in-action" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiao.java8.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterateOverLambdaExpressionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiao.java8.lambda.news.pakgs.IterateOverLambdaExpressionDemo" />
+      <module name="java8-in-action" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiao.java8.lambda.news.pakgs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpressionMultiExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiao.java8.lambda.news.pakgs.LambdaExpressionMultiExample" />
+      <module name="java8-in-action" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiao.java8.lambda.news.pakgs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpressionSingleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiao.java8.lambda.news.pakgs.LambdaExpressionSingleExample" />
+      <module name="java8-in-action" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiao.java8.lambda.news.pakgs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpressionmMethodRenfeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiao.java8.lambda.news.pakgs.LambdaExpressionmMethodRenfeExample" />
+      <module name="java8-in-action" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiao.java8.lambda.news.pakgs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogbackDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="logback-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.logbackdemo.LogbackDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FunctionExample" />
+        <item itemvalue="Application.LambdaExpressionmMethodRenfeExample" />
+        <item itemvalue="Application.IterateOverLambdaExpressionDemo" />
+        <item itemvalue="Application.LambdaExpressionMultiExample" />
+        <item itemvalue="Application.LambdaExpressionSingleExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fd0ffdf-9218-4325-b94a-27b7277f1fb2" name="Default Changelist" comment="" />
+      <created>1562057881253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562057881253</updated>
+      <workItem from="1562057883673" duration="10824000" />
+      <workItem from="1562252214907" duration="701000" />
+      <workItem from="1562305308297" duration="12710000" />
+      <workItem from="1562321893880" duration="407000" />
+      <workItem from="1562383528607" duration="14043000" />
+      <workItem from="1562465902636" duration="2795000" />
+      <workItem from="1562484656312" duration="32000" />
+      <workItem from="1562511939716" duration="82000" />
+      <workItem from="1562575415073" duration="3281000" />
+      <workItem from="1562815247825" duration="12020000" />
+      <workItem from="1562856138815" duration="76000" />
+      <workItem from="1563070840761" duration="9641000" />
+      <workItem from="1563115285679" duration="729000" />
+      <workItem from="1563698331840" duration="1939000" />
+      <workItem from="1563807956386" duration="2350000" />
+      <workItem from="1563886243936" duration="4392000" />
+      <workItem from="1563934551922" duration="5961000" />
+      <workItem from="1563970189817" duration="745000" />
+      <workItem from="1563973738103" duration="11000" />
+      <workItem from="1564043078473" duration="4054000" />
+      <workItem from="1564059617490" duration="2081000" />
+      <workItem from="1564128213844" duration="5632000" />
+      <workItem from="1567678118081" duration="84000" />
+      <workItem from="1620782116187" duration="4417000" />
+      <workItem from="1620868554322" duration="1964000" />
+      <workItem from="1620870631514" duration="5831000" />
+      <workItem from="1621524777584" duration="929000" />
+      <workItem from="1621558631783" duration="4764000" />
+      <workItem from="1621819869699" duration="2818000" />
+      <workItem from="1621841020560" duration="3274000" />
+      <workItem from="1621912002631" duration="1918000" />
+      <workItem from="1622101843418" duration="1200000" />
+      <workItem from="1622107332111" duration="1313000" />
+      <workItem from="1622165189758" duration="1341000" />
+      <workItem from="1622269573035" duration="555000" />
+      <workItem from="1622513031228" duration="6507000" />
+      <workItem from="1622554535406" duration="2512000" />
+      <workItem from="1622604909533" duration="297000" />
+      <workItem from="1622697225061" duration="76000" />
+      <workItem from="1622697586126" duration="686000" />
+      <workItem from="1622699044658" duration="152000" />
+      <workItem from="1622769301613" duration="5616000" />
+      <workItem from="1622815772378" duration="517000" />
+      <workItem from="1622816565921" duration="32000" />
+      <workItem from="1622874556044" duration="6780000" />
+      <workItem from="1622944575887" duration="6316000" />
+      <workItem from="1622990974368" duration="926000" />
+      <workItem from="1623030844404" duration="11760000" />
+      <workItem from="1623679234297" duration="2132000" />
+      <workItem from="1623722295504" duration="615000" />
+      <workItem from="1623850295849" duration="1678000" />
+      <workItem from="1623891442843" duration="11947000" />
+      <workItem from="1623978324847" duration="3196000" />
+      <workItem from="1624064705726" duration="10179000" />
+      <workItem from="1624089596777" duration="622000" />
+      <workItem from="1624324381461" duration="752000" />
+      <workItem from="1624593244884" duration="4857000" />
+      <workItem from="1624693912070" duration="605000" />
+      <workItem from="1625026162367" duration="3075000" />
+      <workItem from="1625043377285" duration="1152000" />
+      <workItem from="1625378532752" duration="4800000" />
+      <workItem from="1625393490015" duration="1228000" />
+      <workItem from="1625466068127" duration="2294000" />
+      <workItem from="1625637001466" duration="6611000" />
+      <workItem from="1625702002592" duration="70000" />
+      <workItem from="1625752993758" duration="3941000" />
+      <workItem from="1625789052727" duration="95000" />
+      <workItem from="1625919504379" duration="2125000" />
+      <workItem from="1625922230247" duration="8000" />
+      <workItem from="1625994553206" duration="7095000" />
+      <workItem from="1626092979730" duration="1808000" />
+      <workItem from="1626138940544" duration="199000" />
+      <workItem from="1626333710338" duration="1357000" />
+      <workItem from="1630488892226" duration="377000" />
+      <workItem from="1630489314774" duration="472000" />
+      <workItem from="1630493571238" duration="3594000" />
+      <workItem from="1630753196574" duration="148000" />
+      <workItem from="1631707138195" duration="1924000" />
+      <workItem from="1631847506558" duration="2693000" />
+      <workItem from="1631857973050" duration="190000" />
+      <workItem from="1636361232944" duration="1129000" />
+      <workItem from="1636364058755" duration="95000" />
+      <workItem from="1637545271009" duration="7798000" />
+      <workItem from="1637588027827" duration="29000" />
+      <workItem from="1637802443074" duration="4201000" />
+    </task>
+    <task id="LOCAL-00001" summary="拼接java 代码，支持自动生成字节码">
+      <created>1562321611753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562321611753</updated>
+    </task>
+    <task id="LOCAL-00002" summary="demoe=test">
+      <created>1562829372321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562829372321</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="拼接java 代码，支持自动生成字节码" />
+    <MESSAGE value="demoe=test" />
+    <option name="LAST_COMMIT_MESSAGE" value="demoe=test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../java/soft/jdk9/lib/src.zip!/java.base/java/lang/Class.java</url>
+          <line>3131</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../java/soft/jdk9/lib/src.zip!/java.base/java/util/concurrent/LinkedBlockingDeque.java</url>
+          <line>246</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../java/soft/jdk/jdk8/src.zip!/java/lang/Class.java</url>
+          <line>260</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/Users/.m2/repository/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE-sources.jar!/org/springframework/util/ObjectUtils.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$PROJECT_DIR$/../../java/soft/jdk/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>122</line>
+          <properties class="java.util.concurrent.locks.ReentrantLock.Sync">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo />
+        <PinnedItemInfo parentTag="java.util.Optional" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
